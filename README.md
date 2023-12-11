@@ -1,8 +1,7 @@
 👋
 Hello World
 
-- 🔭 I’m currently working on ... Data Science And Machine Learning 
-- 🌱 I’m currently learning ... Deep Learning 
-- 👯 I’m looking to collaborate on ... Content Writing
+- 🔭 I’m currently working on ...Machine Learning and Deep Learning 
+- 🌱 Currently looking for collaboration on PINNs. 
 - ⚡ Fun fact: ... The Mascot of Github is Female Cat with 5 octopus-like arms 
 -->
